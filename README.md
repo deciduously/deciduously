@@ -1,6 +1,6 @@
 ### deciduously
 
-I'm Ben.  I sometimes use programming lanagues to make computers do my bidding - much like you!
+I'm Ben.  I sometimes use programming languages liek Rust to make computers do stuff.
 
 * Blog: [DEV](https://dev.to/deciduously).
 * WWW: [deciduously.com](https://deciduously.com).
