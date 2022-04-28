@@ -1,12 +1,12 @@
 ### deciduously
 
-I'm Ben.  I sometimes use programming languages to make computers do stuff.  I like Rust and C++ and Ruby and Elixir.
+I'm Ben.  I work at [Tangram](https://tangram.dev) making open-source developer tools in Rust.
 
 Personal contacts:
 
+* WWW: [deciduously.com](https://deciduously.com)
 * Blog: [DEV](https://dev.to/deciduously)
-* Work Email: [`ben@tangram.dev`](mailto:ben@tangram.dev)
-* Personal Email: [`ben@deciduously.com`](mailto:ben@dediduously.com)
+* Email: [`ben@deciduously.com`](mailto:ben@dediduously.com)
 * LinkedIn: [benlovy](https://www.linkedin.com/in/benlovy/)
 
 Have a *great* day!
