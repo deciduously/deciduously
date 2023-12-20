@@ -1,6 +1,6 @@
-### deciduously
+4### deciduously
 
-I'm Ben.  I work at [Tangram](https://tangram.dev) making open-source developer tools in Rust.
+I'm Ben.  I work at [Tangram](https://tangram.dev).
 
 Personal contacts:
 
